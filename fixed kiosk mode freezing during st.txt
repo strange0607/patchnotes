@@ -1,0 +1,2 @@
+fixed kiosk mode freezing during startup
+iprove stability when switching kiosk  screens
